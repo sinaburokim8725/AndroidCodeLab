@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello Toast</string>
+    <string name="click_count">0</string>
+    <string name="count">Count</string>
+    <string name="toast">Toast</string>
+    <string name="toast_message">안녕 나 영호야!★</string>
+    <string name="title_activity_hello_toast_challenge">HelloToastChallenge</string>
+</resources>
